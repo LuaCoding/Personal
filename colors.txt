@@ -1,0 +1,44 @@
+Red
+Sky Red
+Medium Red
+Maroon
+Flame
+Lively Flame
+Dying Flame
+Dull Red
+Green
+Sky Green
+Medium Green
+Dark Green
+Dull Green
+Blue
+Sky Blue
+Medium Blue
+Navy Blue
+Teal
+Purple
+Pansy Purple
+Heavy Purple
+Pink
+Light Pink
+Dark Pink
+Orange
+Sky Orange
+Light Brown
+Dark Brown
+Heavy Brown
+Red Black
+Grey
+Light Grey
+Lighter Grey
+Green Black
+Blue Black
+Grey Black
+Black
+White
+Grey White
+Dark Grey White
+Yellow
+Sunset Yellow
+Gold
+Silver
