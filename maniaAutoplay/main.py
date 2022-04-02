@@ -5,23 +5,19 @@ import time
 
 while keyboard.is_pressed('q') == False:
         
-    if pyautogui.pixel(815, 980)[1] == 211:
-        keyboard.press("d")
-        time.sleep(0.006)
-        keyboard.release("d")
-        print("Key: d")
-    if pyautogui.pixel(916, 980)[0] == 254:
-        keyboard.press("f")
-        time.sleep(0.006)
-        keyboard.release("f")
-        print("Key: f")
-    if pyautogui.pixel(1006, 980)[0] == 254:
-        keyboard.press("j")
-        time.sleep(0.006)
-        keyboard.release("j")
-        print("Key: j")
-    if pyautogui.pixel(1105, 980)[1] == 211:
+    if pyautogui.pixel(750, 960)[0] != 0:
+        keyboard.press("a")
+        keyboard.release("a")
+        print("Key: a")
+    if pyautogui.pixel(890, 960)[0] != 0:
+        keyboard.press("s")
+        keyboard.release("s")
+        print("Key: s")
+    if pyautogui.pixel(1028, 960)[0] != 0:
         keyboard.press("k")
-        time.sleep(0.006)
         keyboard.release("k")
         print("Key: k")
+    if pyautogui.pixel(1160, 960)[0] != 0:
+        keyboard.press("l")
+        keyboard.release("l")
+        print("Key: l")
